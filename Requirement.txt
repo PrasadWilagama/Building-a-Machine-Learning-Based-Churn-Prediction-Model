@@ -1,0 +1,8 @@
+Building-a-Machine-Learning-Based-Churn-Prediction-Model
+#need to Learn 
+01.Python 
+02.Frameworks 
+03.Libraries 
+04.Machine Learning Algorithms 
+05.SQL
+06.IDE
