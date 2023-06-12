@@ -5,10 +5,11 @@
 
 # Work Break Down
 
-01. Download Dataset
-02. Data Preprocessing
-03. Model Building
-04. Model Evaluation
-05. Build Prediction Pipeline
-06. Build Web Application
-07. Deploy to Azure
+01. Download Dataset <br>
+ 👍 Click [here](https://drive.google.com/drive/folders/1EH69Volc3o5Uuc7tO6fQk5SJQtIOTXEF?usp=sharing) to download dataset
+3. Data Preprocessing
+4. Model Building
+5. Model Evaluation
+6. Build Prediction Pipeline
+7. Build Web Application
+8. Deploy to Azure
