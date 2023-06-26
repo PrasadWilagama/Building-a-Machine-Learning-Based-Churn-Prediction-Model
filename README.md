@@ -6,13 +6,13 @@ Tasks
 [03] Project Evaluation Form <br>
 [04] Proposal Presentation 
 
-# Work Break Down
+# Work BreakDown
 
 01. Download Dataset <br>
  👍 Click [here](https://drive.google.com/drive/folders/1EH69Volc3o5Uuc7tO6fQk5SJQtIOTXEF?usp=sharing) to download dataset
 3. Data Preprocessing
 4. Model Building
 5. Model Evaluation
-6. Build Prediction Pipeline
-7. Build Web Application
+6. Build a Prediction Pipeline
+7. Build a Web Application
 8. Deploy to Azure
