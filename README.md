@@ -16,3 +16,4 @@ Tasks
 6. Build a Prediction Pipeline
 7. Build a Web Application
 8. Deploy to Azure
+ 
